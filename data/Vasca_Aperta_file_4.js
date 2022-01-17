@@ -1,0 +1,1 @@
+var json_Vasca_Aperta_file_4 = {"type":"FeatureCollection","name":"Vasca_Aperta_file_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Vasca_Aper":"Vasca aperta bilobata, Secchiano"},"geometry":{"type":"Point","coordinates":[12.318005067472477,43.929621929166586]}}]}
